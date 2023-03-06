@@ -21,7 +21,7 @@ import java.security.Principal;
 import java.util.Locale;
 import java.util.Set;
 
-import javax.annotation.Resource;
+/*import javax.annotation.Resource;*/
 
 import org.mitre.openid.connect.client.OIDCAuthenticationFilter;
 import org.mitre.openid.connect.client.SubjectIssuerGrantedAuthority;
