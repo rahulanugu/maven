@@ -46,8 +46,8 @@ public class HomeController {
 	@Autowired
 	private OIDCAuthenticationFilter filter;
 
-	@Resource(name = "namedAdmins")
-	private Set<SubjectIssuerGrantedAuthority> admins;
+	/*@Resource(name = "namedAdmins")
+	private Set<SubjectIssuerGrantedAuthority> admins;*/
 
 	/**
 	 * Simply selects the home view to render by returning its name.
